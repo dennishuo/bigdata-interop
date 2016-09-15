@@ -1,3 +1,8 @@
+1.5.3 - 2016-xx-xx
+
+  1. Updated google-api-services-storage dependency from rev35 to rev83.
+
+
 1.5.2 - 2016-08-23
 
   1. Updated AbstractGoogleAsyncWriteChannel to always set the
